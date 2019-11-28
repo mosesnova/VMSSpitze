@@ -1,0 +1,5 @@
+c:\users\moses\documents\visual studio 2010\Projects\VictimManagementSystemV1.0\VictimManagementSystemV1.0\bin\VictimManagementSystemV1.0.dll
+c:\users\moses\documents\visual studio 2010\Projects\VictimManagementSystemV1.0\VictimManagementSystemV1.0\bin\VictimManagementSystemV1.0.pdb
+c:\users\moses\documents\visual studio 2010\Projects\VictimManagementSystemV1.0\VictimManagementSystemV1.0\obj\Debug\ResolveAssemblyReference.cache
+c:\users\moses\documents\visual studio 2010\Projects\VictimManagementSystemV1.0\VictimManagementSystemV1.0\obj\Debug\VictimManagementSystemV1.0.dll
+c:\users\moses\documents\visual studio 2010\Projects\VictimManagementSystemV1.0\VictimManagementSystemV1.0\obj\Debug\VictimManagementSystemV1.0.pdb
